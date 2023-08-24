@@ -1,1 +1,1 @@
-eco "Hello Priya and Jamini welcome to Jenkins"
+echo "Hello Priya and Jamini welcome to Jenkins"
